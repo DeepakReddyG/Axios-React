@@ -1,0 +1,13 @@
+
+.PostFormComponent {
+    margin-top: 20%;
+}
+.PostFormComponent input {
+    width: 20%;
+    border: 1px solid;
+    padding: 10px;
+    display: block;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
